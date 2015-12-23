@@ -1,1 +1,8 @@
-http://sixrevisions.com/javascript/free-javascript-books/
+* http://sixrevisions.com/javascript/free-javascript-books/
+* http://sixrevisions.com/sass/learn-sass-websites/
+* http://sixrevisions.com/lists/free-web-design-books/
+* http://sixrevisions.com/lists/free-books-code/
+* http://sixrevisions.com/web-technology/web-storage-primer/
+* http://sixrevisions.com/css/css-methodologies/
+* http://sixrevisions.com/tools/free-server-monitoring-tools/
+* http://sixrevisions.com/tools/code-demo-sites/
