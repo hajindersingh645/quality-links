@@ -6,3 +6,4 @@
 * http://sixrevisions.com/css/css-methodologies/
 * http://sixrevisions.com/tools/free-server-monitoring-tools/
 * http://sixrevisions.com/tools/code-demo-sites/
+* http://sixrevisions.com/css/css-style-guides/
