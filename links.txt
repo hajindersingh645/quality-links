@@ -8,3 +8,7 @@
 * http://sixrevisions.com/tools/code-demo-sites/
 * http://sixrevisions.com/css/css-style-guides/
 * https://pinboard.in/search/u:aahner?query=terminal
+* http://www.alfredforum.com/topic/3703-imageoptim-workflow/
+* Integrity Plus (export any site to xml) + Fuzzy Math Sitemap.xml to Omnigraffle Sitemap Generator = OmniGraffle for Mac. http://peacockmedia.software/mac/integrity/
+* http://blog.fuzzymath.com/2010/08/05/omnigraffle-sitemap-generator-from-sitemap-xml/
+* https://www.omnigroup.com/omnigraffle
